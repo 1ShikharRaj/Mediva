@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SehatBridge AI",
+  title: "Ilaaj by Swayam AI",
   description: "AI Clinical Copilot for Rural Health Workers",
 };
 
